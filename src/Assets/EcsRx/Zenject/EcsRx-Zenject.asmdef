@@ -1,0 +1,12 @@
+{
+    "name": "EcsRx-Zenject",
+    "references": ["Zenject", "EcsRx-Unity"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
